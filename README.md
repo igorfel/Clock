@@ -1,2 +1,2 @@
 # Clock
-A countdown clock made in Unity
+A countdown timer made in Unity
